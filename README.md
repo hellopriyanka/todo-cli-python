@@ -18,7 +18,6 @@ Designed to help users manage tasks directly from the terminal — fast, light, 
 
 
 todo-cli/
-│
 ├── todo.py # Main script
 ├── tasks.txt # Stores your to-do items
 └── README.md # You're reading it!
